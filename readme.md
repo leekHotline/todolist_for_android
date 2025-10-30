@@ -2,6 +2,12 @@
 
 **TaskMaster Go** 不仅仅是一个普通的待办事项列表，它是一个将“完成任务”游戏化的安卓应用。通过集成立即的视觉和听觉奖励，以及里程碑式的成就系统，它旨在将枯燥的任务管理转变为一种有趣、令人上瘾的体验。
 
+<img width="376" height="832" alt="图片" src="https://github.com/user-attachments/assets/a9d7da35-f07b-47de-a3c4-967cc42fd61c" />
+<img width="370" height="830" alt="图片" src="https://github.com/user-attachments/assets/704a67fe-bfc7-46f6-93d4-6ed9be7d6fbb" />
+
+<img width="371" height="832" alt="图片" src="https://github.com/user-attachments/assets/a6a9c1ba-f492-4ba6-adf8-17ca7dbe6f5a" />
+
+
 ## ✨ 项目亮点
 
 -   **现代化的UI设计**: 采用 Material Design 3 风格，界面简洁、直观。
